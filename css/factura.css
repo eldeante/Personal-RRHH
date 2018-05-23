@@ -1,0 +1,35 @@
+.caja{
+	border: 1px solid #eeeeee;
+	padding: 10px;
+	margin-right: 2.5%;
+
+}
+
+.caja2{
+	border: 1px solid #eeeeee;
+	padding: 10px;
+	margin-left: 0%;
+	margin-top: 15px;
+}
+.caja3{
+	border: 1px solid #eeeeee;
+	padding: 10px;
+	margin-bottom: 15px;
+	margin-top: 10px;
+}
+
+.buscar{
+	padding-top: 50px;
+}
+.sinmargen{
+	margin-left: 0%;
+}
+
+.margenArriba{
+	padding-top: 20px;
+}
+
+.relleno{
+	background-color: #eeeeee;
+	
+}
